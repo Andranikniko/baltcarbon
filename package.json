@@ -1,0 +1,28 @@
+{
+  "name": "baltcarbon",
+  "version": "1.0.0",
+  "description": "Balt Carbon - Charcoal Production Technology Expert",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andranikniko/baltcarbon.git"
+  },
+  "keywords": [
+    "charcoal",
+    "biochar",
+    "carbon",
+    "lambiotte"
+  ],
+  "author": "Balt Carbon Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andranikniko/baltcarbon/issues"
+  },
+  "homepage": "https://github.com/Andranikniko/baltcarbon#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
