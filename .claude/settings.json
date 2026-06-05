@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(gstack)",
+      "Skill(gstack:*)",
+      "Read(//tmp/**)",
+      "Read(//private/tmp/**)"
+    ]
+  }
+}
