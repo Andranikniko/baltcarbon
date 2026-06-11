@@ -1,0 +1,47 @@
+# Balt Carbon
+
+> Balt Carbon is a Latvian engineering company specialising in turnkey charcoal and biochar production systems based on the continuous Lambiotte (SIFIC/CISR) retort technology. Founded in 2008, headquartered in Riga, Latvia. Serves clients in the EU, Scandinavia, Africa, and worldwide.
+
+## Pages
+
+- [Home](https://baltcarbon.com/): Overview of Balt Carbon, Lambiotte technology, projects, sustainability, and contact.
+- [Biochar Uses & Applications](https://baltcarbon.com/biochar.html): Full breakdown of biochar applications across agriculture, carbon sequestration, water treatment, animal feed, construction, and waste management.
+- [Industrial Applications](https://baltcarbon.com/industrial-applications.html): Lambiotte charcoal quality specifications and use cases in metallurgy — silicon production, metal casting, carbon bisulphide, and electrode carbon.
+
+## Technology
+
+The Lambiotte retort is a continuous, counter-flow carbonization system. Biomass enters at the top and moves through three zones (drying, carbonization, cooling) while pyrolysis gases rise upward and are combusted internally. No external fuel or gas is required to operate — the process is autothermic. Electricity consumption is 40 to 60 kW for control systems only.
+
+Single line capacity: 2,000 to 16,000 tonnes of biochar per year depending on unit size and feedstock. Dual-line: up to 32,000 t/year on 600 m², operated by 12 to 15 people. Proven 15-year operational lifespan.
+
+## Feedstock
+
+Accepts many lignocellulosic biomass types: wood chips, wood waste, agricultural residues. Feedstock moisture should be approximately 25% for direct pyrolysis, or up to 40% with the optional integrated drying zone.
+
+## Energy Recovery
+
+Pyrolysis gases are combusted at approximately 1000°C. 4.75 Gcal/h is recirculated internally for drying. Up to 13 Gcal/h is available for export to the client facility (process heating, steam generation, preheating). For a 32,000 t/year installation this replaces approximately 1,500 nm³/h of natural gas.
+
+## Biochar Quality
+
+- Ash content: approximately 2%
+- Phosphorus: below 0.05%
+- Certified against European Biochar Certificate (EBC) and Puro.Earth methodologies
+- Qualifies for carbon removal certification upon production; credits generated when applied to soil or other long-term storage
+
+## Projects
+
+- 2008 — Livani, Latvia (4,000 t/year, sold charcoal to France)
+- 2018/2019 — Nurmes, Finland (6,000 t/year)
+- 2022 — Laudona, Latvia (reconstructed Livani facility)
+- 2026 — Taaveti, Finland (32,000 t/year, in progress)
+
+## Project Timeline
+
+Typical greenfield project: approximately 10 months. Pre-Project and FEED: 1 month. Manufacturing and installation: 7 months. Commissioning, ramp-up, staff training: 2 months. External and climate factors not included.
+
+## Contact
+
+- Email: ando@baltcarbon.com
+- LinkedIn: https://www.linkedin.com/company/baltcarbon
+- Address: Dzirnavu st. 5, LV-1010, Riga, Latvia
