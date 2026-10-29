@@ -506,15 +506,16 @@
         </div>
 
         <!--
-          Form uses formsubmit.co — a free, no-signup email relay for static sites.
-          On the first real submission, formsubmit.co will send a confirmation email
-          to ando@baltcarbon.com to activate the endpoint.
+          Form uses Web3Forms — a free email relay for static sites.
+          Submissions are delivered to the email the access key was created for.
+          Get/manage the key at https://web3forms.com
         -->
-        <form class="contact-form" action="https://formsubmit.co/ando@baltcarbon.com" method="POST">
-          <input type="hidden" name="_subject" value="New contact from baltcarbon.com">
-          <input type="hidden" name="_captcha" value="false">
-          <input type="hidden" name="_next" value="https://baltcarbon.com/thank-you.html">
-          <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value="205d2272-42f2-421f-9ca2-7d87907a69b8">
+          <input type="hidden" name="subject" value="New contact from baltcarbon.com">
+          <input type="hidden" name="from_name" value="baltcarbon.com">
+          <input type="hidden" name="redirect" value="https://baltcarbon.com/thank-you.html">
+          <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off" aria-hidden="true">
 
           <div class="form-group">
             <label for="email">Contact email</label>
